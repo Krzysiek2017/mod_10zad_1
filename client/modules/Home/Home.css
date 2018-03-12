@@ -1,1 +1,12 @@
 /* Home styles */
+.home {
+    max-width: 1200px;
+    margin: 0 auto;
+    color: gray;
+    
+}
+
+.home h2 {
+    padding: 30px;
+    text-align: center;
+}

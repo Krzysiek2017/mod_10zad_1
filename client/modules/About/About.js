@@ -3,11 +3,12 @@ import { connect } from "react-redux";
 import { bindActionCreators } from "redux";
 
 // Import Style
+import styles from './About.css';
 
 class About extends Component {
   render() {
     return (
-      <div>
+      <div className={styles.about}>
         <h2>Hello worldzzzzzzzzzz!</h2>
       </div>
     );
