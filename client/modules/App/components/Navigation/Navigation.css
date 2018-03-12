@@ -1,0 +1,16 @@
+.navigation {
+    width: 1200px;
+    margin: 20 auto;
+    padding-bottom: 30px;
+} 
+
+.navigation a {
+    color: white;
+    padding: 30px;
+    text-decoration: none;
+}
+
+.navigation a:hover {
+    text-decoration: underline;
+    color: whitesmoke;
+}
